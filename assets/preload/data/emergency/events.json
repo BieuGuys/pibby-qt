@@ -1,0 +1,100 @@
+{
+	"song": {
+		"speed": 2,
+		"stage": "qt-back",
+		"player1": "bf",
+		"player2": "qt",
+		"player3": null,
+		"events": [
+			[
+				23018.1818181818,
+				[
+					[
+						"Change Scroll Speed",
+						"1.9",
+						""
+					]
+				]
+			],
+			[
+				23018.1818181818,
+				[
+					[
+						"Change Character",
+						"dad",
+						"ERROR"
+					]
+				]
+			],
+			[
+				38393.1818181818,
+				[
+					[
+						"Change Scroll Speed",
+						"1.1",
+						""
+					]
+				]
+			],
+			[
+				53814.2045454546,
+				[
+					[
+						"Change Scroll Speed",
+						"1.9",
+						""
+					]
+				]
+			],
+			[
+				53907.9545454546,
+				[
+					[
+						"Play Animation",
+						"scared",
+						"bf"
+					]
+				]
+			],
+			[
+				69145.4545454546,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			],
+			[
+				81195.4545454546,
+				[
+					[
+						"Change Scroll Speed",
+						"500",
+						""
+					]
+				],
+				426.136363636364
+			],
+			[
+				81245.4545454546,
+				[
+					[
+						"Change Scroll Speed",
+						"1",
+						""
+					]
+				]
+			]
+		],
+		"notes": [],
+		"splashSkin": "noteSplashes",
+		"validScore": false,
+		"gfVersion": "gf",
+		"bpm": 88,
+		"arrowSkin": "",
+		"needsVoices": false,
+		"song": "Emergency"
+	}
+}
