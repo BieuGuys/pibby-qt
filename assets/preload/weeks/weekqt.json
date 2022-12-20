@@ -1,0 +1,32 @@
+{
+	"songs": [
+		[
+			"emergency",
+			"qt",
+			[
+				146,
+				113,
+				253
+			]
+		]
+	],
+	"hiddenUntilUnlocked": false,
+	"hideFreeplay": false,
+	"weekBackground": "",
+	"difficulties": "hard",
+	"weekCharacters": [
+		"qt",
+		"bf",
+		"gf"
+	],
+	"storyName": "qt!?!?!",
+	"weekName": "Custom Week",
+	"freeplayColor": [
+		255,
+		142,
+		206
+	],
+	"hideStoryMode": false,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
